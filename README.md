@@ -1,2 +1,2 @@
 # vuecommerce
-A VueJs + Laravel 7 Application for Ecommerce
+A VueJs + Laravel Application for eCommerce
